@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @torimchd
 - 👀 I’m interested in music, coding, food, and beauty
-- 🌱 I’m currently learning html & javascript
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
